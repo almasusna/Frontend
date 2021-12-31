@@ -28,7 +28,7 @@
 */
 @media (min-width: 375px) {
   body {
-    background: url("/images/bg-desktop.svg");
+    background: url("./images/bg-desktop.svg");
     background-color: #674baf;
     background-repeat: no-repeat;
   }
@@ -45,7 +45,7 @@
 
 body .logo {
   position: relative;
-  content: url("/images/logo.svg");
+  content: url("./images/logo.svg");
   max-width: 30%;
 }
 
@@ -58,7 +58,7 @@ body .main {
 }
 
 body .main .main-mockup {
-  content: url("/images/illustration-mockups.svg");
+  content: url("./images/illustration-mockups.svg");
 }
 
 body .main .main-text {
